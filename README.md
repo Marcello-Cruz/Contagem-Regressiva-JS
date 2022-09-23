@@ -1,1 +1,1 @@
-# Contagem-Regressiva-JS feito com Java em 2022
+# Contagem-Regressiva-JS feito com Javascript em 2022
